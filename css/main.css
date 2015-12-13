@@ -1,0 +1,37 @@
+body{
+    background-image: url("../images/page-bk.jpg");
+}
+.am-container{
+    width: 970px !important;
+    max-width: none;
+}
+.page-container{
+    padding-top: 10px;
+    background-color: #fff;
+}
+.index-report-box{
+    height: 200px;
+    background-color: #0e90d2;
+    border: 1px solid #eeeeee;
+    color: #ffffff;
+    padding: 15px;
+}
+.index-jrtt-container{
+    height: 50px;
+    line-height: 50px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.index-info-table a{
+    color: #222222;
+}
+.index-info-table>thead>tr>th{
+    border-bottom: 5px solid #0e90d2;
+}
+.footer{
+    background-color: #ffffff;
+    color: #777;
+    padding: 30px 0;
+    border-top: 1px solid #0e90d2;
+    margin-top: 70px;
+}
